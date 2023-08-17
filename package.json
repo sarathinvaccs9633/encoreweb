@@ -8,7 +8,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "test"
+    "test": "flutter test"
   },
   "repository": {
     "type": "git",
