@@ -1,0 +1,23 @@
+{
+  "name": "encorewebtest",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "this is test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarathinvaccs9633/encoreweb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarathinvaccs9633/encoreweb/issues"
+  },
+  "homepage": "https://github.com/sarathinvaccs9633/encoreweb#readme"
+}
