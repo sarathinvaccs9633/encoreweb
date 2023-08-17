@@ -49,7 +49,7 @@ jobs:
         uses: azure/webapps-deploy@v2
         id: deploy-to-webapp
         with:
-          app-name: 'encorewebdemo'
+          app-name: 'lastattemptwebapp'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_98A7D045416641D09FFAD81B9F68E666 }}
           package: .
